@@ -1,2 +1,3 @@
-# averagemarks
- this has the average marks calculation
+merging animals
+![Uploading Screenshot (2).png…]()
+
